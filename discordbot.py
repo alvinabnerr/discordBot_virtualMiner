@@ -8,7 +8,7 @@ from discord.colour import Color
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = '.')
-token = 'ODQzNTUzNDQwOTQ4NDIwNjA5.YKFiXA.68_7NbBrPUYFE9yvyohpIbEGv-c'
+token = '************************************'
 os.chdir('C:\Storage A\BOT')
 
 #-------------------------- LEVEL --------------------------------------
